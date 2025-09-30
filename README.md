@@ -2,7 +2,7 @@
 
 ## Steps for use
 ```
-git clone <repo-url>
+git clone https://github.com/DiegoDiaz9614/Note-App/tree/main
 ```
 ``````
 pip install -r requirements.txt
